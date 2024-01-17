@@ -1,0 +1,6 @@
+
+the following is a list of sound files and their (original) creators, along with their respective licenses.
+
+ar_unload_p2-freesound-detamine.ogg by detamine | License: Creative Commons 0
+assault_rifle_firing-freesound-superphat.ogg by SuperPhat | License: Creative Commons 0
+ar_firing_far-opengameart-free-firearm-sound-lib.ogg | License: Creative Commons 0 | https://opengameart.org/content/the-free-firearm-sound-library
